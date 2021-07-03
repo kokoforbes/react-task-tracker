@@ -13,10 +13,16 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Read a book",
-      "day": "July 11th at 5:30pm",
-      "reminder": true
+      "text": "take the trash out",
+      "day": "july 20th at 5:00 PM",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Cook food",
+      "day": "july 30th at 7:00 PM",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
